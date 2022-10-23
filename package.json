@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/AntoninaHoncharenko/gallery-js.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Antonina Honcharenko",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
